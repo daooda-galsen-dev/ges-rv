@@ -6,7 +6,7 @@ Il s'agit d'une solution web de gestion de rendez-vous dans un hôpital, basée 
 
 
 ## Architecture du projet
-  Le projet est basé sur le model Model-View-Controller (MVC).
+  Le projet est basé sur le model Model-View-Controller (MVC).<br>
   Avec aussi l'intégration de la POO en PHP.
 
 
@@ -14,10 +14,10 @@ Il s'agit d'une solution web de gestion de rendez-vous dans un hôpital, basée 
   
 
 ## Technologies
-Bulma CSS ![bulma version](https://img.shields.io/badge/bulma-0.7.5-blueviolet.svg)
-Baffle JS ![baffle version](https://img.shields.io/badge/Baffle%20JS-0.3.6-lightgrey)
-jQuery ![jquery version](https://img.shields.io/badge/jQuery-3.4.1-blue)
-Utilisation du framework CSS, Bulma pour la partie FrontEnd avec un design jolie, intuitif et responsive.
+![bulma version](https://img.shields.io/badge/bulma-0.7.5-blueviolet.svg)
+![baffle version](https://img.shields.io/badge/Baffle%20JS-0.3.6-lightgrey)
+![jquery version](https://img.shields.io/badge/jQuery-3.4.1-blue)<br>
+Utilisation du framework CSS, Bulma pour la partie FrontEnd avec un design jolie, intuitif et responsive.<br>
 Utilisation de Baffle JS pour l'animation de la page d'accueil.
 
 
