@@ -16,8 +16,8 @@ Une démo de la partie Front-End.
 
 
 ## Schéma de la BDD
-![schema](https://github.com/daooda-galsen-dev/demo-wergui-yaram-RDV/blob/master/files/bdd/bdd.PNG)
-
+[**VOIR FICHIER SQL**](https://github.com/daooda-galsen-dev/wergui-yaram-RDV/blob/master/view/files/ges_rdv.sql)
+![schema](https://github.com/daooda-galsen-dev/wergui-yaram-RDV/blob/master/view/files/bdd.PNG)
 
 ## Technologies
 ![bulma version](https://img.shields.io/badge/bulma-0.7.5-blueviolet.svg)
