@@ -3,7 +3,7 @@ Il s'agit d'une solution web de gestion de rendez-vous dans un hôpital, basée 
 
 
 # Demo (de la partie Front-End)
-[**DEMO!**](https://demo-wergui-yaram-rdv.netlify.com)<br>
+[**DEMO**](https://demo-wergui-yaram-rdv.netlify.com)<br>
 Une démo de la partie Front-End.
 
 
