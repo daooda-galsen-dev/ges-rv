@@ -16,6 +16,7 @@ Une démo de la partie Front-End.
 
 
 ## Schéma de la BDD
+![schema](https://github.com/daooda-galsen-dev/demo-wergui-yaram-RDV/blob/master/files/bdd/bdd.PNG)
 
 
 ## Technologies
