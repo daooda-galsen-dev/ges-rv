@@ -7,9 +7,6 @@ Il s'agit d'une solution web de gestion de rendez-vous dans un hôpital, basée 
 ![processus](https://github.com/daooda-galsen-dev/wergui-yaram-RDV/blob/master/view/files/Gestion-RDV-Wergui-Yaram-Trello.png)
 
 
-## Maquette du l'application
-
-
 ## Architecture du projet
   Le projet est basé sur le model Model-View-Controller (MVC).<br>
   Avec aussi l'intégration de la POO en PHP.
